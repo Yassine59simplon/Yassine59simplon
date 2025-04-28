@@ -26,15 +26,7 @@ Développeur web passionné, actuellement en formation COBOL et CMS (WordPress, 
 - Me perfectionner en développement back-end
 
 ## 📚 J'apprends actuellement
-- COBOL
-- WordPress et Webflow
-- HTML, CSS
-- GitHub
-
-## 💬 N'hésitez pas à me poser des questions sur
-- WordPress
-- La création de sites internet
-- Les bases du COBOL
+- COBOL chez Simlpn
 
 ## 📫 Comment me contacter
 - Email : [yassineramazan@gmail.com](mailto:yassineramazan@gmail.com)

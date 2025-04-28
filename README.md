@@ -14,7 +14,6 @@ Développeur web passionné, actuellement en formation **COBOL** chez **Simplon*
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
-![COBOL](https://img.shields.io/badge/COBOL-004080?style=for-the-badge)
 
 ## 🤝 Je cherche à collaborer sur
 - Projets de **création de sites vitrines** et **e-commerce**

@@ -1,7 +1,7 @@
 # Salut, je suis Yassine ! 👋
 
 ## À propos de moi
-Développeur web passionné, actuellement en formation COBOL et CMS (WordPress, Webflow) chez Simplon Hauts-de-France. Motivé pour apprendre et participer à des projets autour du développement web, je suis particulièrement intéressé par le développement back-end et l'optimisation de sites web.
+Développeur web passionné, actuellement en formation COBOL et chez Simplon. Motivé pour apprendre et participer à des projets autour du développement web, je suis particulièrement intéressé par le développement back-end et l'optimisation de sites web.
 
 ## 🚀 Ce que je fais actuellement
 - Création de sites web avec WordPress et Webflow

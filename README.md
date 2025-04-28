@@ -1,11 +1,11 @@
-# Salut, je suis Yassine ! 👋
+# Salut, je suis Yassine 👋
 
 ## À propos de moi
-Développeur web passionné, actuellement en formation COBOL et chez Simplon. Motivé pour apprendre et participer à des projets autour du développement web, je suis particulièrement intéressé par le développement back-end et l'optimisation de sites web.
+Développeur web en formation **COBOL** chez **Simplon Hauts-de-France**, je me concentre sur le développement **back-end** et l'optimisation des sites web. Je suis en quête de nouveaux défis pour approfondir mes compétences et participer à des projets intéressants !
 
 ## 🚀 Ce que je fais actuellement
-- Création de sites web avec WordPress et Webflow
-- Formation en développement COBOL
+- Création de sites web avec **WordPress** et **Webflow**
+- Formation en **développement COBOL**
 
 ## 🛠️ Compétences
 
@@ -17,20 +17,20 @@ Développeur web passionné, actuellement en formation COBOL et chez Simplon. Mo
 ![COBOL](https://img.shields.io/badge/COBOL-004080?style=for-the-badge)
 
 ## 🤝 Je cherche à collaborer sur
-- Projets de création de sites vitrines et e-commerce simples
-- Développement back-end (particulièrement en COBOL ou autres technologies que je découvre)
-- Projets open-source ou pour débutants
+- Projets de **création de sites vitrines** et **e-commerce**
+- Développement **back-end** (notamment en **COBOL** et autres technologies)
+- Contributions à des **projets open-source** ou des **projets pour débutants**
 
 ## 🔎 Je cherche de l'aide pour
-- Approfondir mes compétences en COBOL
-- Me perfectionner en développement back-end
+- **Approfondir mes compétences en COBOL**
+- Me perfectionner dans le **développement back-end**
 
-## 📚 J'apprends actuellement
-- COBOL chez Simlpn
+## 📚 Formation en cours
+- **COBOL** chez **Simplon Hauts-de-France**
 
 ## 📫 Comment me contacter
-- Email : [yassineramazan@gmail.com](mailto:yassineramazan@gmail.com)
-- GitHub : [Ton profil GitHub](https://github.com/Yassine59simplon)
+- 📧 **Email** : [yassineramazan@gmail.com](mailto:yassineramazan@gmail.com)
+- 👾 **GitHub** : [Mon profil GitHub](https://github.com/Yassine59simplon)
 
 ## 🌐 Portfolio (en cours de création)
-- Tous mes projets seront bientôt disponibles sur mon portfolio en ligne.
+- **Bientôt en ligne** : Tous mes projets seront bientôt disponibles sur mon portfolio.

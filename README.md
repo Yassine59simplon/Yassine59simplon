@@ -14,6 +14,7 @@ Développeur web passionné, actuellement en formation **COBOL** chez **Simplon*
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?logo=webflow&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white&style=for-the-badge)
 ![COBOL](https://img.shields.io/badge/COBOL-003366?logo=COBOL&logoColor=white&style=for-the-badge)
 
 
